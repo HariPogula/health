@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 12.375, 10.875" name="aayurvedic">
+  <DataContextMoniker Name="/aayurvedicDataContext" />
+  <nestedChildShapes>
+    <classShape Id="198d50b6-66dc-4f48-a380-82032abf022f" absoluteBounds="0.5, 2, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/aayurvedicDataContext/suitability" />
+      <nestedChildShapes>
+        <elementListCompartment Id="46033145-446c-423b-90ac-b1e0d9367153" absoluteBounds="0.51500000000000012, 2.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="eb6cffff-a02d-458a-9e2c-1806c5157ccf" absoluteBounds="2.5, 2.625, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/aayurvedicDataContext/bodytype" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f0bf926c-80ec-4e4c-abd5-a3e7355e7869" absoluteBounds="2.5150000000000006, 3.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cce30b2d-ec0a-4644-b884-98e6dacba107" absoluteBounds="0.5, 6.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/aayurvedicDataContext/timing" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ffacea0f-306d-432b-bd70-7e8f027438a2" absoluteBounds="0.51500000000000012, 6.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6e37ab84-b2e0-4a57-abfe-da5188354798" absoluteBounds="4, 4.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/aayurvedicDataContext/category" />
+      <nestedChildShapes>
+        <elementListCompartment Id="381fd26c-8985-4665-af46-ad922dfdbccf" absoluteBounds="4.0150000000000006, 4.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dcac80c9-cb2d-4d49-a5b8-de49e72de2af" absoluteBounds="0.5, 4.625, 2, 1.3862939453125">
+      <DataClassMoniker Name="/aayurvedicDataContext/vegetable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="47141e74-9214-497b-b047-bbea1d3f70e9" absoluteBounds="0.515, 5.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1615e546-215c-4587-8db3-6ce8788a0b7f" absoluteBounds="0.75, 8.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/aayurvedicDataContext/oilfat" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7d8a7643-9187-4a55-bb81-4d332e804ba8" absoluteBounds="0.765, 8.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a9089f05-ec0b-4d56-8089-b152676fcf4e" absoluteBounds="3.375, 9.375, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/aayurvedicDataContext/quality" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6eaecc25-0c73-4d6c-95d7-bdea42bfdb85" absoluteBounds="3.39, 9.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6c1e437d-315e-4d72-9eb5-5db8a00e0811" absoluteBounds="4.625, 2.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/aayurvedicDataContext/temperature" />
+      <nestedChildShapes>
+        <elementListCompartment Id="db2c1a4f-8835-4b5c-8f40-13109b7ca396" absoluteBounds="4.64, 2.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f2acbc84-61be-4e6a-854a-d79c1deccd33" absoluteBounds="4, 6.375, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/aayurvedicDataContext/season" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c68e58df-a4ab-4740-bff0-4e1ee618a072" absoluteBounds="4.015, 6.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="391181b2-2077-44da-bb66-3079de3fc739" absoluteBounds="3, 5.375, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/aayurvedicDataContext/effect" />
+      <nestedChildShapes>
+        <elementListCompartment Id="857bc7c6-761b-4c04-b940-82a44b47f343" absoluteBounds="3.015, 5.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d6e164d2-435b-49d5-8b04-85b5dd2d1b95" absoluteBounds="0.625, 0.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/aayurvedicDataContext/taste" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ad611a1b-f79b-4048-bcb1-5fbd4527e23f" absoluteBounds="0.64000000000000012, 0.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a5a2f479-d7ce-4d07-a24e-30abe8bb55a8" absoluteBounds="3.125, 4.125, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/aayurvedicDataContext/vipak" />
+      <nestedChildShapes>
+        <elementListCompartment Id="28fbe89b-15a7-4416-bc84-9b0af4c43c45" absoluteBounds="3.14, 4.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ed8a3615-1b97-4cc7-8b44-6bf4a4e5932b" absoluteBounds="3.625, 0.625, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/aayurvedicDataContext/fruit" />
+      <nestedChildShapes>
+        <elementListCompartment Id="139e557e-fb53-408e-9902-3a17012f6132" absoluteBounds="3.6399999999999997, 1.085, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.625 : 1.15949625651042); (3.625 : 1.15949625651042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/aayurvedicDataContext/taste/taste_fruit" />
+      <nodes>
+        <classShapeMoniker Id="d6e164d2-435b-49d5-8b04-85b5dd2d1b95" />
+        <classShapeMoniker Id="ed8a3615-1b97-4cc7-8b44-6bf4a4e5932b" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="08f0b445-66b0-4d7e-8480-9b3f6cb965b5" absoluteBounds="6.625, 0.5, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/aayurvedicDataContext/image" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f82999cd-d58d-4f9c-a252-02f81494f393" absoluteBounds="6.64, 0.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="45f25895-9461-4150-99f8-4460874ea64c" absoluteBounds="9.625, 1.625, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/aayurvedicDataContext/sec_question" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8be14847-8aa0-412c-9a22-89d881adbf45" absoluteBounds="9.64, 2.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="851dfde6-06e0-463a-afce-de7a1846da47" absoluteBounds="10.125, 3.5, 2, 1.3862939453125">
+      <DataClassMoniker Name="/aayurvedicDataContext/user_sec_que" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5bf6ab35-95e9-441c-bf39-4baf6ce561b4" absoluteBounds="10.14, 3.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5e7e219a-8f59-4784-b255-05c8517ef7b1" absoluteBounds="7.25, 5.875, 2, 1.3862939453125">
+      <DataClassMoniker Name="/aayurvedicDataContext/user_secque" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7d56bdcf-71d6-4f2b-9937-909d7d9a7351" absoluteBounds="7.265, 6.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="42b0f941-1398-42a3-bb30-fd5c3fb08ce7" absoluteBounds="7.5, 4.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/aayurvedicDataContext/reg_temp" />
+      <nestedChildShapes>
+        <elementListCompartment Id="af24f5e5-91c2-4699-acdf-958ed52a9388" absoluteBounds="7.515, 5.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b10d76cd-4e52-4fee-acd9-267ea2f99156" absoluteBounds="7.5, 3.375, 2, 1.9631982421875">
+      <DataClassMoniker Name="/aayurvedicDataContext/reg_final" />
+      <nestedChildShapes>
+        <elementListCompartment Id="802f71d3-051b-4dc3-86be-e91f95d8acb2" absoluteBounds="7.515, 3.835, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b7c3a895-93ec-4a17-beb8-8aba0c50392d" absoluteBounds="7.625, 3.25, 2, 1.9631982421875">
+      <DataClassMoniker Name="/aayurvedicDataContext/reg_reject" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9d48965c-643c-4641-9071-8fad75bd23c2" absoluteBounds="7.64, 3.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
